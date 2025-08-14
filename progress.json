@@ -43,5 +43,14 @@
       "too many values to unpack (expected 2)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755134629.953114,
+    "completed_at": 1755134630.061584,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
   }
 ]

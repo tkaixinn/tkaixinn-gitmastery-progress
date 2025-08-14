@@ -34,41 +34,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755134595.292095,
-    "completed_at": 1755134595.678354,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755134629.953114,
-    "completed_at": 1755134630.061584,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755134713.461368,
-    "completed_at": 1755134713.537267,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755177371.644217,
-    "completed_at": 1755177372.058264,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
   }
 ]
